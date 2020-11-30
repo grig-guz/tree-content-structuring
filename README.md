@@ -1,5 +1,5 @@
 # Domain-Independent Neural Text Structuring 
-
+This is the code for our [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.281/) on text structuring with silver-standard discourse trees from [MEGA-DT treebank](https://www.cs.ubc.ca/cs-research/lci/research-groups/natural-language-processing/mega_dt.html).
 ## Requirements
 
 * Python (3.6+)
